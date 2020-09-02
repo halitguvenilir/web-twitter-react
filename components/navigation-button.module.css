@@ -1,0 +1,9 @@
+.navButton {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+
+  svg {
+    color: red;
+  }
+}
